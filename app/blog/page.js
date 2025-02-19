@@ -25,9 +25,14 @@ async function page() {
           <span className="bg-[#1a1443] w-fit text-white p-2 px-5 text-2xl rounded-md">
             All Blog
           </span>
+          
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
         </div>
       </div>
+     <center><span className=" w-fit text-white p-2 px-5 text-2xl rounded-md">
+            No Blog available currently
+          </span>
+          </center> 
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 md:gap-5 lg:gap-8 xl:gap-10">
         {
