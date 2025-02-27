@@ -10,9 +10,9 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'Travel Agency App',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
+        name: 'Certificate Name Generator',
+        description: 'The manual creation and distribution of personalized certificates for numerous recipients is time-consuming and tedious. Certificate Namerator solves this by automating the process through a template-based approach. Users upload a certificate template, add multiple names at once, customize text positioning, and generate all certificates instantly. Email collection functionality is included to prepare for future automated distribution, significantly reducing time spent on certificate management.',
+        tools: ["TypeScript", "JavaScript", "React", "HTML", "CSS", "Tailwind CSS", "Canvas API", "Blob API", "File API", "JSZip", "Sonner", "Vite", "npm/yarn"],
         role: 'Full Stack Developer',
         code: '',
         demo: '',
