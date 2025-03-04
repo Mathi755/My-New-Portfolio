@@ -1,15 +1,22 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Event Coordinator',
-    company: "DSBS Student Association.",
-    duration: "(oct 2024 - Present)"
+    title: 'The President',
+    company: "The Data Science Club - SRMIST",
+    duration: "(Mar 2025 - Present)"
   },
-  
   {
     id: 2,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2023 - Present)"
-  }
+    title: 'Technical Member',
+    company: "The Data Science Club - SRMIST",
+    duration: "(sep 2024 - Mar 2025)"
+  },
+  
+  
+  {
+    id: 3,
+    title: 'Event Coordinator',
+    company: "DSBS Student Association - SRMIST",
+    duration: "(oct 2024 - Present)"
+  },
 ]
